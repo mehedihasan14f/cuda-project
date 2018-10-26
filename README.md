@@ -1,2 +1,2 @@
-# -cuda-project
+# cuda-project
 services-website
